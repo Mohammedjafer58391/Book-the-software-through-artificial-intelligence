@@ -1,0 +1,30 @@
+# Project Book the software through artificial intelligence
+Final project for the Building AI course
+## Summary
+* The project is a smartly integrated program developed and writing programs that the users of the artificial intelligence of the program the program is to write clear English words and the program transforms it into a final program with a programmatic language program and provides an advanced application time and voltage in writing the codes and can be categorized to begaate to begin beginners in programming
+## Background
+Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+* Solving the problem of complexity and longtime software development
+* The problem of complexity and long time in writing the copies and developing the activities founded by many developers and programmers
+## How is it used?
+Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+
+* The solution is required if the developer wants to take advantage of the time in writing a long time-term program and benefits the developer of its time in other topics that the semi-year application system and users are this program (developers and beginners programming) should be considered to be used that the program is limited and can not be used in the book of humidity and penetration
+# image of a my project
+(IMG-20250518-WA0000.jpg)
+## Data sources and AI methods
+Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+* My data, I collect it myself 
+## Challenges
+What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+* My project cannot write all the lines of the program. The intervention of the developer or programmer is important
+* Ethical restrictions and considerations must be taken into account, and hacker software writers cannot be given permission
+## What next?
+How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+* The project can grow and become more widely used so that it can be used by all developers around the world
+* I need help with a book or developing the project because it is a huge project
+## Acknowledgments
+* New Waves App Development Company 
+https://www.new-waves.net/ar/
+https://creativecommons.org/licenses/by/4.0/
